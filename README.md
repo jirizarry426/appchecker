@@ -9,7 +9,7 @@ Checks if your application is running. If the application is not running, it ope
 
 #HELPFUL TERMINAL COMMANDS TO RUN BEFORE EXECUTING SCRIPT\
 
-1. cd <PATH TO FOLDER SCRIPT IS CONTAINTED IN >\
+1. cd /PATH TO FOLDER SCRIPT IS CONTAINTED IN/
 2. sudo chmod u+x appchecker.sh -> gives user permission to run the file \
 
 
