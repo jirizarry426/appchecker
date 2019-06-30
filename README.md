@@ -16,6 +16,7 @@ Checks if your application is running. If the application is not running, it ope
 ALTERNATIVELY 
 
 1. Open Terminal
-2. Type sudo chmod u+x ; then drag the file into the terminal window. 
+2. Type sudo chmod u+x
+3. Then drag the file into the terminal window. 
 
  #WRITTEN IN BASH BY JOSHUA IRIZARRY
