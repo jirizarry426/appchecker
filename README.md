@@ -10,7 +10,8 @@ Checks if your application is running. If the application is not running, it ope
 #HELPFUL TERMINAL COMMANDS TO RUN BEFORE EXECUTING SCRIPT\
 
 1. cd /PATH TO FOLDER SCRIPT IS CONTAINTED IN/
-2. sudo chmod u+x appchecker.sh -> gives user permission to run the file \
+2. sudo chmod u+x appchecker.sh
+**This gives user permission to run the file 
 
 
 ALTERNATIVELY 
@@ -18,5 +19,6 @@ ALTERNATIVELY
 1. Open Terminal
 2. Type sudo chmod u+x
 3. Then drag the file into the terminal window. 
+4. Press Enter
 
  #WRITTEN IN BASH BY JOSHUA IRIZARRY
