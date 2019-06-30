@@ -11,6 +11,7 @@ Checks if your application is running. If the application is not running, it ope
 
 1. cd /PATH TO FOLDER SCRIPT IS CONTAINTED IN/
 2. sudo chmod u+x appchecker.sh
+
 **This gives user permission to run the file 
 
 
